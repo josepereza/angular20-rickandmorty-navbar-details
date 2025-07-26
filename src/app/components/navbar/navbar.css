@@ -6,6 +6,11 @@
 .navbar-scrolled {
   background-color: rgba(0, 0, 0, 0.8);
 }
+a {
+
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.801);
+  
+}
 .navbar-scrolled a {
     color: aliceblue;
 }
